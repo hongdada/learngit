@@ -12,10 +12,12 @@ namespace lpapi.rongzi.com.Controllers
         {
             ViewBag.Title = "Home Page";
 
-            return View();
-        }
-    }
-}
+            return View()
 啊11111111111111111111111
 bbbbbbbbbbb
 cccc多踩踩踩踩
+asdfasf 
+asf 
+asdf 
+asfasdf 
+sadfas sadfs
